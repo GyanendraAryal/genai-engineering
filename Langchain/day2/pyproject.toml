@@ -1,0 +1,21 @@
+[project]
+name = "day2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "langchain",
+    "langchain-core",
+    "langchain-openai",
+    "openai",
+    "langchain-anthropic",
+    "langchain-google-genai",
+    "google-generativeai",
+    "langchain-huggingface",
+    "transformers",
+    "huggingface-hub",
+    "python-dotenv",
+    "numpy",
+    "scikit-learn",
+]
